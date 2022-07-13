@@ -1,0 +1,51 @@
+﻿ulke,meslek,egitim,boy,kilo,yas,cinsiyet
+tr,doktor,lisans,170,80,30,e
+tr,yazılım muhendisi,lisans,175,76,21,e
+tr,yönetici,lisans,185,74,30,k
+tr,elektrik muhendisi,lisans,183,70,29,k
+tr,ogretmen,lisans,169,68,42,e
+tr,disci,lisans,180,90,30,e
+tr,subay,lisans,190,80,25,e
+tr,asistan,lisans,175,90,35,e
+tr,bahcivan,lise,177,60,22,k
+us,bakici,lise,185,75,33,e
+us,bakkal,ilkokul,165,55,27,k
+us,balikci,lise,155,70,44,k
+us,doktor,lisans,160,78,39,k
+us,bankacı,lisans,162,59,41,k
+us,yazılım muhendisi,lisans,167,62,55,k
+fr,balerin,lisans,174,70,27,e
+fr,barmen,lise,193,90,23,e
+fr,yazılım muhendisi,lisans,187,80,27,e
+fr,cerrah,lisans,183,88,28,e
+fr,cevirmen,lisans,159,60,29,k
+fr,dadı,ilkokul,164,66,32,k
+fr,doktor,lisans,166,56,42,k
+en,yazılım muhendisi,lisans,185,105,33,e
+en,dalgıc,lisans,165,55,27,k
+en,polis,lisans,185,70,44,k
+en,dedektif,lisans,160,58,39,k
+en,eczacı,lisans,174,70,47,e
+en,editor,lisans,193,90,23,e
+en,doktor,lisans,187,80,27,e
+en,egitmen,lisans,183,88,28,e
+en,ekonomist,lisans,180,70,30,e
+en,elektrik muhendisi,lisans,175,76,31,e
+en,doktor,lisans,185,64,40,k
+en,emlakci,lise,173,70,39,k
+en,esnaf,ilkokul,170,78,42,e
+en,fotografci,lisans,180,90,30,e
+de,yazılım muhendisi,lisans,185,105,33,e
+de,futbolcu,ilkokul,165,55,27,k
+de,fizikci,lisans,165,50,44,k
+de,yonetmen,lisans,160,58,39,k
+de,filozof,lisans,174,70,47,e
+de,fırıncı,lise,193,90,33,e
+de,doktor,lisans,187,80,27,e
+de,garson,lise,183,88,28,e
+de,gazeteci,lisans,170,70,30,e
+de,gitarist,lisans,165,66,21,e
+de,doktor,lisans,175,74,40,k
+de,ogretmen,lisans,173,60,29,k
+de,barmen,lise,179,68,32,e
+de,gemici,lisans,180,90,30,e
